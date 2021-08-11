@@ -1,0 +1,47 @@
+# Footer content is organized in columns.
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - name: Partenaires
+    links:
+    - text: Fond mondial d’information sur la biodiversité 
+      href: https://www.gbif.org/
+    - text: Secrétariat du Pacific Regional Environment Programme
+      href: https://www.sprep.org/    
+
+ # - name: Code
+ #   description: | # Can be Markdown
+ #     This project is open source. See `_data/footer.yml` to customize the footer.
+
+  - name: David Moverley
+    description: | # Can be Markdown
+      * [Chef de délégation](https://www.gbif.org/contact-us/directory?personId=3960)
+      * [Secrétariat du Pacific Regional Environment Programme](https://www.sprep.org/)
+      * E-mail: [davidm@sprep.org](davidm@sprep.org)
+  - name: Bradley Myer
+    description: | # Can be Markdown
+      * [Chef de projet](https://www.sprep.org/our-team)
+      * [Secrétariat du Pacific Regional Environment Programme](https://www.sprep.org/)
+      * E-mail: [bradleym@sprep.org](bradleym@sprep.org)
+  - name: Ainsof So'o
+    description: | # Can be Markdown
+      * [Node Manager](https://www.gbif.org/contact-us/directory?personId=3961)
+      * [Secrétariat du Pacific Regional Environment Programme](https://www.sprep.org/)
+      * E-mail: [gbifnodemanage@sprep.org](gbifnodemanage@sprep.org)
+    #connectIcons: true
+       #Social icons links defined in `_config.yml`
+   #* 1234 postal code
+
+  # EXAMPLE
+  #- name: Group name
+  #  description: |
+  #    An optional description. Can be markdown
+  #  links: # optional as well
+  #  - text: link title
+  #    href: http://example.com
+  #  - text: link title 2
+  #    href: http://example2.com
+  #  connectIcons: true # optional - show social icons (defined in _config.yml)
+other: |
+  [Politique de confidentialité](/fre/privacy)

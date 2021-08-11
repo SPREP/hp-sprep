@@ -1,26 +1,31 @@
-# Links listed below will be included in your site's navbar (navigation at the top)
-
 - text: About
   href: /about
-#- text: Home
-#  href: /home/
 - text: Data
-  href: /data
-- text: Downloads
   menu:
-   - text: Battlers Sharing Data-English
-     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
-   - text: Battlers Sharing Data-French
-     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
-#   - text: Biodiversity Information Development (BID) Best Practices for Mobilizing Data
-#     href: https://downloads.ctfassets.net/uo17ejk9rkwj/4gmZ9Hz9egtxJIuXKlW7SW/003fef24c10c69b730b8c92c4e22f326/191125-BID-Best-Practices.pdf
-#   - text: Biodiversity Information Development (BID) Impact Summary 
-#     href: https://assets.ctfassets.net/uo17ejk9rkwj/7ezmj33g285s8mRb1HTpE/36359b4b635e64f28a6ce3ff2b50fd89/191127-BID-Impact-Summary.pdf
+   - text: Occurrences
+     href: /data
+   - text: Datasets
+     href: https://hp-sprep.gbif-staging.org/data?filter=eyJtdXN0Ijp7Imhvc3RpbmdPcmdhbml6YXRpb25LZXkiOlsiY2QzNTEyZTctODg2Yy00ODczLWI2MjktNzQwYWJlOGFlNzRlIl19fQ%3D%3D&view=DATASETS
+     #href: https://www.gbif.org/dataset/search?publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+   - text: Checklists
+     #href: https://www.gbif.org/dataset/search?type=CHECKLIST&publishing_country=AS&publishing_country=CK&publishing_country=TL&publishing_country=FM&publishing_country=FJ&publishing_country=PF&publishing_country=GU&publishing_country=KI&publishing_country=MH&publishing_country=NR&publishing_country=NC&publishing_country=NU&publishing_country=MP&publishing_country=PW&publishing_country=PG&publishing_country=WS&publishing_country=SB&publishing_country=TK&publishing_country=TO&publishing_country=TV&publishing_country=VU&publishing_country=WF
+     href: /checklist
+   - text: Invasive Species Specialist Group Checklist
+     href: /issg
+   - text: Publishers
+     href: /publisher
+   - text: Literature
+     href: https://www.gbif.org/resource/search?contentType=literature&countriesOfCoverage=AS&countriesOfCoverage=CK&countriesOfCoverage=TL&countriesOfCoverage=FM&countriesOfCoverage=FJ&countriesOfCoverage=PF&countriesOfCoverage=GU&countriesOfCoverage=KI&countriesOfCoverage=MH&countriesOfCoverage=NR&countriesOfCoverage=NC&countriesOfCoverage=NU&countriesOfCoverage=MP&countriesOfCoverage=PW&countriesOfCoverage=PG&countriesOfCoverage=WS&countriesOfCoverage=SB&countriesOfCoverage=TK&countriesOfCoverage=TO&countriesOfCoverage=TV&countriesOfCoverage=VU&countriesOfCoverage=WF
+   - text: Download
+     href: https://hp-sprep.gbif-staging.org/data?view=download
 - text: Links
   menu: # Dropdown menu (one level deep only)
    - text: Battler Resource Base (BRB)
      href: https://piln.sprep.org/
-     icon: fa-github
+   - text: Global Biodiversity Information Facility (GBIF)
+     href: https://www.gbif.org/
+   - text: GBIF Contacts/Directory
+     href: https://www.gbif.org/contact-us/directory
    - text: Invasive Species Management in the Pacific
      href: https://www.sprep.org/invasive-species-management-in-the-pacific
    - text: Pacific Environment Portal (PEP)
@@ -31,23 +36,15 @@
      href: https://www.sprep.org/invasive-species-management-in-the-pacific/Pacific-Invasives-Partnership/invasive-partnerships
    - text: Pacific Island Protected Area Portal (PIPAP)
      href: https://pipap.sprep.org/
-#   - text: Pacific Regional Invasive Species Management Support Services (PRISMSS)
-#     href: https://www.sprep.org/invasive-species-management-in-the-pacific/prismss
    - text: Secretariat of the Pacific Regional Environment Programme (SPREP)
      href: https://www.sprep.org/
-#- text: Publications
- # menu:
+- text: How to
+  href: /how_to   
+- text: Downloads
+  menu:
+   - text: Battlers Sharing Data-English
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-sharing-data.pdf
+   - text: Battlers Sharing Data-French
+     href: https://www.sprep.org/sites/default/files/documents/publications/battlers-share-pacific-gbif-fre.pdf
 - text: News
   href: /news/
-#  - text: Base theme demo
-#    href: https://hp-base-theme.gbif-staging.org/
-#  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-#  - text: "Docs" # Title for block of menu items
-#  - text: Jekyll documentation
-#    href: https://jekyllrb.com/docs/pages/
-#  - text: Markdown tutorial
-#    href: https://guides.github.com/features/mastering-markdown/
-#  - text: YAML tutorial
-#    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-#- text: Hello
-#  href: /hello
