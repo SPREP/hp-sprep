@@ -9,7 +9,7 @@ imageLicense: Photo by Scott
 parallax: true
 height: 75vh
 ---
-O lenei upega tafailagi o se auaunaga mo faamaumauga faatatau i i punaoafaalenatura ma o lo’o maua i luga o faamaumauga tuufaatasi ale lalolagi mo siosiomaga faalenatura poo le Global Biodiversity Information Facility (GBIF) mo Atumotu o le Pasefika pei o Amerika Samoa, Atu Kuki, Atu motu o Marshall, Fiti, Falani Polenisia, Guam, Haua’i, Kiripati, Mariana i Matu, Nauru, Niu Kaletonia, Niue, Palau, Papua Niu Kini, Samoa, Solomona, Sitete o Micronesia, Timoa i Sasae, To’elau, Toga, Tuvalu, Uea ma Futuna, Vanuatu.
+O lenei upega tafailagi o se auaunaga mo faamaumauga faatatau i punaoafaalenatura ma o lo’o maua i luga o faamaumauga tuufaatasi ale lalolagi mo siosiomaga faalenatura poo le Global Biodiversity Information Facility (GBIF) mo Atumotu o le Pasefika pei o Amerika Samoa, Atu Kuki, Atu motu o Marshall, Fiti, Falani Polenisia, Guam, Haua’i, Kiripati, Mariana i Matu, Nauru, Niu Kaletonia, Niue, Palau, Papua Niu Kini, Samoa, Solomona, Sitete o Micronesia, Timoa i Sasae, To’elau, Toga, Tuvalu, Uea ma Futuna, Vanuatu.
 O lenei auaunaga e taula’i  i itulagi ole Pasefika e fesoasoani lea I le vave tuuina mai o tali I faafesili e ala  mai i ata ma faamaumauga ma ata o laufanua. o le auaunaga lenei o le a mafai ona siitia ai le faaogaina o faamaumauga faatatau i le punaoa fa’alenatura faalenatura. Ua mafai ona tuuina atu i se auala faigofie ina ia mafai ona fa’aaogaina e tagata lautele. Ua vaavaai nei le Failautusi o le Pasefika mo atunuu e moomia lenei auaunaga mo le tuufaatasiaina o nei faamaumauga o le tausaga e tasi.
 
 **Manulauti o lenei auauanaga**
@@ -24,6 +24,6 @@ I le taimi nei o loo mafai ona tuuina atu :
 
 GBIF poo le Faalapotopotoga o lo'o tuufaatasi faamaumauga punaoa fa'alenatura a le lalolagi. O se faalapotpotoga mo fesoʻotaʻiga faʻavaomalo ma faʻamatalaga e faʻatupeina e malo o le lalolagi mo le faʻamoemoe e tuʻuina atu i soʻo se tasi, i soʻo se mea ma ia avanoa i tagata lautele faaamaumauga, e faatatau i soʻo se ituaiga manu ma laau i le Lalolagi.
 
-Asiasi atu i lo latou upegatafailagi mo nisi faamatalaga: [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
+Asiasi atu i le upegatafailagi mo nisi faamatalaga: [www.gbif.org/what-is-gbif](https://www.gbif.org/what-is-gbif)
 
 

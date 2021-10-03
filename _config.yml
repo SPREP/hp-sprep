@@ -20,7 +20,7 @@
 
 title: PBIF # the title of your site should go here
 description: |  # this means to ignore newlines (until baseurl:)
-  The Pacific Biodiversity Information Facility portal to present all of the Pacific occurrences of biodiversity data currently available on GBIF. 
+  The Pacific Biodiversity Information Facility portal presents all of the Pacific biodiversity data available on GBIF. 
   So only using a geographical scope to filter the GBIF dataset as a whole.
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -29,7 +29,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://pbif.sprep.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 #SOCIAL PROFILES
-email: bradleym@sprep.org
+email: davidm@sprep.org
 #twitter_username: jekyllrb
 #github_username:  jekyll
 #youtube_username: PRISMSS
@@ -50,12 +50,12 @@ privacy:
   name: Pacific Biodiversity Information Facility (PBIF)
   domain: pbif.sprep.org
   contactEmail: davidm@sprep.org
-  helpdeskEmail: waynea@sprep.org
+  helpdeskEmail: gbifnodemanager@sprep.org
 
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
   enable: true # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
-  GA_ID: "G-0YKWK0EN12" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
+  GA_ID: "G-0R59CM3226" # Your Google analytics ID. Sometimes they start with UA-XXXXX-X other times with G-XXXXXXXX depending on how you set it up
   termsVersion: "2021-07-06" # A version number for your terms. If you change this, then the users will see the popup again asking them to confirm/reject anew.
 
 algae:
@@ -108,8 +108,7 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "page"
-      lang: en
-      
+      lang: en 
   - # Samoan
     scope:
       path: "sm/"
@@ -157,8 +156,81 @@ defaults:
       lang: rmi
   -
     scope:
-      path: "_posts" # an empty string here means all files in the project
+      path: "_posts/en" # an empty string here means all files in the project
+      type: "posts"
     values:
       layout: "post"
-      lang: [en,fij,fre,sm,nu,to,tk,tv,sb,rmi]
-      permalink: "/post/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+      lang: en
+      permalink: "/posts/en/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/sm" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: sm
+      permalink: "/posts/sm/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/fre" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: fre
+      permalink: "/posts/fre/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/fij" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: fij
+      permalink: "/posts/fij/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/nu" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: nu
+      permalink: "/posts/nu/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/to" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: to
+      permalink: "/posts/to/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/tk" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: tk
+      permalink: "/posts/tk/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/tv" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: tv
+      permalink: "/posts/tv/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/sb" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: sb
+      permalink: "/posts/sb/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts
+  -
+    scope:
+      path: "_posts/rmi" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+      lang: rmi
+      permalink: "/posts/rmi/:year/:slug/"   # Use /post/yyyy/{filename}/ as permalink for all posts

@@ -2,8 +2,8 @@
 klass: "about"
 layout: compose
 lang-ref: issg
-title: Invasive Species Specialist Group Checklists
-description: The Invasive Species Specialist Group ISSG of the Species Survival Commission of the International Union for Conservation of Nature is a global network of scientific and policy experts on invasive species. 
+title: Kulupu Fakapitoa mo Manu Fakalāfua
+description: Ko te fakalapotopotoga tenei Invasive Species Specialist Group ISSG o te Species Survival Commission o te International Union mo Hukehukega o te natula, he.
 background: https://www.sprep.org/sites/default/files/styles/image_detai_670_400_/public/images/news/SAM1%20Matafaa%20Mangrove%20Conservation%20Area%2C%20Upolu%2C%20Samoa%20%C2%A9%20S.%20Chape.jpg?itok=8jCOpCnW
 imageLicense: 
 parallax: true # OPTION - default is false
@@ -26,7 +26,7 @@ composition:
 #  data: example.compose.overlay.text
 ---
 
-## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Invasive Species Specialist Group Checklists
+## ![img](https://api.gbif.org/v1/image/unsafe/http%3A%2F%2Fwww.issg.org%2Fpicts%2Fissg_logo.gif)Kulupu Fakapitoa mo Manu Fakalāfua Lihi fakamaumau
 
 ------
 

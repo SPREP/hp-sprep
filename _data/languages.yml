@@ -1,39 +1,40 @@
 en:
   label: English
-  icon: #
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/gb.svg
+  #archive_permalink: /news/
 sm:
-  label: Samoan
-  icon: #
+  label: Gagana Samoa
+  icon: /assets/images/Country_Flags/ws.svg
   archive_permalink: /sm/talafou
 nu:
   label: Niuean
-  icon: #
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/nu.svg
   archive_permalink: /nu/news
 to:
   label: Tongan
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/to.svg
   archive_permalink: /to/ko-e-ongoongo
-  icon: #
 tk:
   label: Tokelaun
-  icon: #
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/tk.svg
   archive_permalink: /tk/talafou
 tv:
   label: Tuvaluan
-  icon: #
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/tv.svg
   archive_permalink: /tv/tala
 sb:
   label: Solomon Islands
-  icon: #
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/sb.svg
   archive_permalink: /sb/nius
 fij:
   label: Fijian
-  icon: #
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/fj.svg
   archive_permalink: /fij/iTukutuku
 fre:
   label: Français
-  icon: #
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/fr.svg
   archive_permalink: /fre/actualités
 rmi:
   label: Marshallese
-  icon: #
+  icon: https://lipis.github.io/flag-icon-css/flags/4x3/mh.svg
   archive_permalink: /rmi/nuuj
